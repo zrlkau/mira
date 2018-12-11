@@ -1,5 +1,7 @@
 # Mira
 This repository contains additional information to the paper "Mira: Sharing Resources for Distributed Analytics at Small Timescales".
 
- - Source code will be made available upon publication of the paper.
- - Detailed test descriptions and raw test data will be made available in the coming days.
+ - The source code of the Mira resource manager and scheduler (officially called HCS) can be downloaded at https://github.com/zrlkau/hcs.
+ - The source code of Spark with Mira integration can be downloaded at https://github.com/zrlkau/hcs-spark.
+ 
+ Please note that neither code has production quality and is provided as is.
